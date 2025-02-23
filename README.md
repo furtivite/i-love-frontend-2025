@@ -1,6 +1,8 @@
 # Я 💛 Фронтенд 2025
 
-[Посмотреть в записи](https://events.yandex.ru/events/ya-love-frontend-2025/index).
+Посмотреть отдельно этот доклад [на youtube](https://youtu.be/3dBKb4mv-9Q?si=oevaz1rLLo8b76KR)
+
+[Посмотреть всё событие в записи](https://events.yandex.ru/events/ya-love-frontend-2025/index).
 
 Спасибо всем, кто посмотрел мой доклад. Надеюсь, вам понравилось, а если нет, то вы расскажете, что стоит улучшить в будущем.
 
